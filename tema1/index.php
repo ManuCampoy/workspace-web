@@ -11,7 +11,8 @@
     <?php
         echo "Bienvenido al maravilloso mundo de PHP</br>";
         echo "<a href='test.php'>Test</a>";
+        
     ?>
-    
+
 </body>
 </html>
